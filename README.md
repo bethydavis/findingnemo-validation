@@ -12,3 +12,7 @@ Validation steps:
 # Field studies
 5. Obtain permitting for restricted area sampling
 6. <TBC>
+
+  
+ # Resources:
+  https://www.frontiersin.org/articles/10.3389/fevo.2021.650717/full
