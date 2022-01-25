@@ -16,3 +16,8 @@ Validation steps:
   
  # Resources:
   https://www.frontiersin.org/articles/10.3389/fevo.2021.650717/full
+  
+  PIN maps: https://www.penobscotnation.org/departments/natural-resources/gis-mapping/maps-for-download
+  DEP Biomonitoring Stations: https://maine.maps.arcgis.com/apps/webappviewer/index.html?id=8752837d17a64017a84769539ef810a6
+  Nature Conservancy maps?
+  Electrofishing maps - pending responses
